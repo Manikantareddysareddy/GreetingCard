@@ -1,0 +1,22 @@
+.list-item {
+  list-style-type: none;
+  margin-left: 10px;
+}
+.btnEl {
+  color: #db1c48;
+  border: 1px #db1c48 solid;
+  background-color: transparent;
+  font-size: 14px;
+  padding: 9px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.ActiveBtn {
+  color: #ffffff;
+  background-color: #db1c48;
+  border: 0 none;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 9px;
+  border-radius: 20px;
+}

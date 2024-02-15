@@ -1,0 +1,24 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+  align-items: center;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+}
+.ul-container {
+  display: flex;
+  flex-direction: row;
+}
+.imageEl {
+  height: 60vh;
+  width: 25vw;
+  margin-top: 20px;
+}
